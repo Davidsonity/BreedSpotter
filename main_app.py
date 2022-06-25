@@ -1,8 +1,8 @@
 import numpy as np
 import streamlit as st
 import cv2
-from keras.models import load_model
-from keras.preprocessing import image
+from tensorflow.keras.models import load_model
+from tensorflow.keras.preprocessing import image
 
 # loading the model
 model = load_model('dog_breed.h5')
