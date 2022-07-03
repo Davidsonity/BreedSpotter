@@ -1,10 +1,8 @@
 # 10 Dog Breed Classifier Using TensorFlow 2.🐶🐕
 
 <p align="center">
-
-  [![Made In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Davidsonity/Dog_Breed/blob/main/Dog_Breed_Prediction.ipynb)
   
-  [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+  [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)    [![Made In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Davidsonity/Dog_Breed/blob/main/Dog_Breed_Prediction.ipynb)
   
   
   ![GitHub stars](https://img.shields.io/github/stars/Davidsonity/Dog_Breed)
@@ -26,4 +24,3 @@ https://user-images.githubusercontent.com/96771321/177054479-a8d530c5-dfd7-433f-
 - pomeranian
 - basenji
 - samoyed
-![DogBreedApp_AdobeExpress](https://user-images.githubusercontent.com/96771321/177056533-7ebabec7-2d5d-4e9b-b7dd-94c4c32d56f4.gif)
