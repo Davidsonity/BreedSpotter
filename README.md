@@ -1,4 +1,4 @@
-# 10 Dog Breed Classifier Using TensorFlow🐶🐕
+# 10 Dog Breed Classifier Using TensorFlow 2.🐶🐕
 
 <p align="center">
 
@@ -15,7 +15,7 @@
 
 https://user-images.githubusercontent.com/96771321/177054479-a8d530c5-dfd7-433f-a490-69ae9f4857a4.mp4
 
-10 Classification of dog images:
+## Dog Classification Names:
 - scottish deerhound
 - maltese dog
 - afghan hound 
@@ -26,4 +26,3 @@ https://user-images.githubusercontent.com/96771321/177054479-a8d530c5-dfd7-433f-
 - pomeranian
 - basenji
 - samoyed
-
