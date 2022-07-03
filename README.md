@@ -13,7 +13,7 @@
   [![GitHub license](https://img.shields.io/github/license/Davidsonity/Dog_Breed.svg)](https://github.com/Davidsonity/Dog_Breed/blob/master/LICENSE)
 </p>  
 
-https://user-images.githubusercontent.com/96771321/177053021-1cb1563d-e344-44f7-8c19-bc737070ef0c.mp4
+https://user-images.githubusercontent.com/96771321/177054479-a8d530c5-dfd7-433f-a490-69ae9f4857a4.mp4
 
 10 Classification of dog images:
 - scottish deerhound
@@ -26,5 +26,4 @@ https://user-images.githubusercontent.com/96771321/177053021-1cb1563d-e344-44f7-
 - pomeranian
 - basenji
 - samoyed
-
 
