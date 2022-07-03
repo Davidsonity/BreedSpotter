@@ -2,7 +2,7 @@
 
 <p align="center">
 
-  [![Made In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Davidsonity/Dog_Breed/blob/main/Notebook/Dog_Breed_Prediction.ipynb)
+  [![Made In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Davidsonity/Dog_Breed/blob/main/Dog_Breed_Prediction.ipynb)
   
   [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
   
