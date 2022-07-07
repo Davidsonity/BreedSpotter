@@ -1,13 +1,13 @@
-# 10 Dog Breed Classifier Using [![forthebadge made-with-python](https://img.icons8.com/color/48/000000/tensorflow.png)](https://www.tensorflow.org/)  TensorFlow 2.[![forthebadge made-with-python](https://img.icons8.com/color/48/000000/tensorflow.png)](https://www.tensorflow.org/) 🐶🐕🐩🐕‍🦺🦮🐶
+# 10 Dog Breed Classifier Using [![forthebadge made-with-python](https://img.icons8.com/color/48/000000/tensorflow.png)](https://www.tensorflow.org/)  TensorFlow 2.[![forthebadge made-with-python](https://img.icons8.com/color/48/000000/tensorflow.png)](https://www.tensorflow.org/) 🐶
 <p align="center">
   
-  [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)    [![Made In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Davidsonity/Dog_Breed/blob/main/Notebook/Dog_Breed_Prediction.ipynb)
+  [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)    [![Made In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Davidsonity/Dog_Breed_Classifier/blob/main/Notebook/Dog_Breed_Prediction.ipynb)
   
   
-  ![GitHub stars](https://img.shields.io/github/stars/Davidsonity/Dog_Breed)
-  ![GitHub forks](https://img.shields.io/github/forks/Davidsonity/Dog_Breed)
-  [![GitHub contributors](https://img.shields.io/github/contributors/Davidsonity/Dog_Breed.svg)](https://GitHub.com/Davidsonity/Dog_Breed/graphs/contributors/)
-  [![GitHub license](https://img.shields.io/github/license/Davidsonity/Dog_Breed.svg)](https://github.com/Davidsonity/Dog_Breed/blob/master/LICENSE)
+  ![GitHub stars](https://img.shields.io/github/stars/Davidsonity/Dog_Breed_Classifier)
+  ![GitHub forks](https://img.shields.io/github/forks/Davidsonity/Dog_Breed_Classifier)
+  [![GitHub contributors](https://img.shields.io/github/contributors/Davidsonity/Dog_Breed_Classifier.svg)](https://GitHub.com/Davidsonity/Dog_Breed_Classifier/graphs/contributors/)
+  [![GitHub license](https://img.shields.io/github/license/Davidsonity/Dog_Breed_Classifier.svg)](https://github.com/Davidsonity/Dog_Breed_Classifier/blob/master/LICENSE)
 </p>  
 
 
