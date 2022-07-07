@@ -4,9 +4,7 @@ import cv2
 from tensorflow.keras.models import load_model
 from tensorflow.keras.preprocessing import image
 
-from pathlib import Path
-
-pkl_path = Path(__file__).parents[1] / 'dog_breed.h5'
+pkl_path = 'dog_breed.h5'
 
 # loading the model
 model = load_model(pkl_path)
