@@ -4,13 +4,7 @@ import cv2
 from tensorflow.keras.models import load_model
 from tensorflow.keras.preprocessing import image
 
-import os
-
-directory = os.getcwd()
-
-st.write(directory)
-
-pkl_path = str(directory) + 'dog_breed.h5'
+pkl_path = 'dog_breed.h5'
 
 # loading the model
 model = load_model(pkl_path)
