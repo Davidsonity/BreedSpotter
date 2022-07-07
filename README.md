@@ -1,7 +1,7 @@
 # 10 Dog Breed Classifier Using [![forthebadge made-with-python](https://img.icons8.com/color/48/000000/tensorflow.png)](https://www.tensorflow.org/)  TensorFlow 2.[![forthebadge made-with-python](https://img.icons8.com/color/48/000000/tensorflow.png)](https://www.tensorflow.org/) 🐶🐕🐩🐕‍🦺🦮🐶
 <p align="center">
   
-  [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)    [![Made In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Davidsonity/Dog_Breed/blob/main/Dog_Breed_Prediction.ipynb)
+  [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)    [![Made In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Davidsonity/Dog_Breed/blob/main/Notebook/Dog_Breed_Prediction.ipynb)
   
   
   ![GitHub stars](https://img.shields.io/github/stars/Davidsonity/Dog_Breed)
