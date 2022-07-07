@@ -10,10 +10,10 @@ directory = os.getcwd()
 
 st.write(directory)
 
-# pkl_path = 'dog_breed.h5'
+pkl_path = 'dog_breed.h5'
 
 # loading the model
-model = load_model(pkl_path)
+# model = load_model(pkl_path)
 
 # Name of classes
 classes = ['scottish deerhound', 'maltese dog', 'afghan hound', 'entlebucher', 'bernese mountain dog', 'shih-tzu', 'great pyrenees', 'pomeranian', 'basenji', 'samoyed']
@@ -45,6 +45,6 @@ if submit:
         opencv_image = opencv_image / 255.0
 
         # Make Prediction
-        prediction = model.predict(opencv_image)
+#         prediction = model.predict(opencv_image)
 
-        st.title(str("The Dog Breed is " + classes[np.argmax(prediction)]))
+#         st.title(str("The Dog Breed is " + classes[np.argmax(prediction)]))
