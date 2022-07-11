@@ -23,8 +23,6 @@ https://davidsonity-dog-breed-classifier-app-l4wtbp.streamlitapp.com/
 - basenji
 - samoyed
 
-https://user-images.githubusercontent.com/96771321/177057102-f7564918-0707-4c0f-856d-72952e2123e3.mp4
-
 
 ### Installation
 Install reqluired package with pip
@@ -54,4 +52,8 @@ I make use of data to building machine learning models, computer vision projects
 
 ### License
 
-[MIT](https://choosealicense.com/licenses/mit/) machine learning.
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+## How to use app
+https://user-images.githubusercontent.com/96771321/177057102-f7564918-0707-4c0f-856d-72952e2123e3.mp4
