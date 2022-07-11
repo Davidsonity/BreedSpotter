@@ -1,14 +1,12 @@
-# 10 Dog Breed Classifier Using [![forthebadge made-with-python](https://img.icons8.com/color/48/000000/tensorflow.png)](https://www.tensorflow.org/)  TensorFlow 2.[![forthebadge made-with-python](https://img.icons8.com/color/48/000000/tensorflow.png)](https://www.tensorflow.org/) 🐶
-<p align="center">
+# 10 Dog Breed Classifier Using TensorFlow 2.[![forthebadge made-with-python](https://img.icons8.com/color/48/000000/tensorflow.png)](https://www.tensorflow.org/) 🐶
   
-  [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)    [![Made In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Davidsonity/Dog_Breed_Classifier/blob/main/Notebook/Dog_Breed_Prediction.ipynb)
+[![Made In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Davidsonity/Dog_Breed_Classifier/blob/main/Notebook/Dog_Breed_Prediction.ipynb)
   
   
-  ![GitHub stars](https://img.shields.io/github/stars/Davidsonity/Dog_Breed_Classifier)
-  ![GitHub forks](https://img.shields.io/github/forks/Davidsonity/Dog_Breed_Classifier)
-  [![GitHub contributors](https://img.shields.io/github/contributors/Davidsonity/Dog_Breed_Classifier.svg)](https://GitHub.com/Davidsonity/Dog_Breed_Classifier/graphs/contributors/)
-  [![GitHub license](https://img.shields.io/github/license/Davidsonity/Dog_Breed_Classifier.svg)](https://github.com/Davidsonity/Dog_Breed_Classifier/blob/master/LICENSE)
-</p>  
+![GitHub stars](https://img.shields.io/github/stars/Davidsonity/Dog_Breed_Classifier)
+![GitHub forks](https://img.shields.io/github/forks/Davidsonity/Dog_Breed_Classifier)
+[![GitHub contributors](https://img.shields.io/github/contributors/Davidsonity/Dog_Breed_Classifier.svg)](https://GitHub.com/Davidsonity/Dog_Breed_Classifier/graphs/contributors/)
+[![GitHub license](https://img.shields.io/github/license/Davidsonity/Dog_Breed_Classifier.svg)](https://github.com/Davidsonity/Dog_Breed_Classifier/blob/master/LICENSE)
 
 
 
