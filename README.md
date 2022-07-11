@@ -39,12 +39,17 @@ Install reqluired package with pip
 project
 ### 🚀 About Me
 
-I am data science enthusiastic , who believes that words and data are the two most powerful tools to change the world.
-my skills include data analysis, visualization, and machine learning .
-
+I am an Data Science/Machine Learning enthusiast. I spend most of my time styding, researching and analysing data.
+I make use of data to building machine learning models, computer vision projects, recommendation Systems etc.
 
 ### 🛠 Skills
-python, data analysis, data visualization, deeplearning
+- Python
+- Data Analysis
+- Data Visualization
+- Machine learning
+- Deep learnng
+- Recommendation Systems
+- Computer Vision
 
 
 ### License
