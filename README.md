@@ -33,12 +33,12 @@ Install reqluired package with pip
 Creating a machine learning model to predict breed of dogs using dogs images.
 
 
-### 🚀 About Me
+### About Me 🚀 
 
 I am an Data Science/Machine Learning enthusiast. I spend most of my time styding, researching and analysing data. \
 I make use of data to building machine learning models, computer vision projects, recommendation Systems etc.
 
-### 🛠 Skills
+### Skills 🛠 
 - Python
 - Data Analysis
 - Data Visualization
