@@ -9,8 +9,6 @@
 # App Link 
 https://davidsonity-dog-breed-classifier-app-l4wtbp.streamlitapp.com/
 
-https://user-images.githubusercontent.com/96771321/177057102-f7564918-0707-4c0f-856d-72952e2123e3.mp4
-
 
 
 ## Dog Classification Names:
@@ -25,3 +23,30 @@ https://user-images.githubusercontent.com/96771321/177057102-f7564918-0707-4c0f-
 - basenji
 - samoyed
 
+https://user-images.githubusercontent.com/96771321/177057102-f7564918-0707-4c0f-856d-72952e2123e3.mp4
+
+
+### Installation
+Install reqluired package with pip
+
+```bash
+  pip install requirements.txt
+  
+```
+### Context
+- Creating a machine learning model to predict breed of dogs using dogs images.
+
+project
+### 🚀 About Me
+
+I am data science enthusiastic , who believes that words and data are the two most powerful tools to change the world.
+my skills include data analysis, visualization, and machine learning .
+
+
+### 🛠 Skills
+python, data analysis, data visualization, deeplearning
+
+
+### License
+
+[MIT](https://choosealicense.com/licenses/mit/) machine learning.
