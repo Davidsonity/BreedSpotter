@@ -1,15 +1,18 @@
-[![Made In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Davidsonity/Dog_Breed_Classifier/blob/main/Notebook/Dog_Breed_Prediction.ipynb)
-![GitHub stars](https://img.shields.io/github/stars/Davidsonity/Dog_Breed_Classifier)
-![GitHub forks](https://img.shields.io/github/forks/Davidsonity/Dog_Breed_Classifier)
-[![GitHub contributors](https://img.shields.io/github/contributors/Davidsonity/Dog_Breed_Classifier.svg)](https://GitHub.com/Davidsonity/Dog_Breed_Classifier/graphs/contributors/)
-[![GitHub license](https://img.shields.io/github/license/Davidsonity/Dog_Breed_Classifier.svg)](https://github.com/Davidsonity/Dog_Breed_Classifier/blob/master/LICENSE)
+# Dog Breed Classifier [![forthebadge made-with-python](https://img.icons8.com/color/48/000000/tensorflow.png)](https://www.tensorflow.org/)
 
-# Dog Breed Classifier Using TensorFlow 2.[![forthebadge made-with-python](https://img.icons8.com/color/48/000000/tensorflow.png)](https://www.tensorflow.org/) 🐶
+![h](https://user-images.githubusercontent.com/96771321/214430950-66cc8641-b309-4de1-8a8f-7a568f69910c.jpg)
 
-# App Link 
-https://davidsonity-dog-breed-classifier-app-l4wtbp.streamlitapp.com/
 
-## Dog Classification Names:
+### INTRODUCTION
+#### Objectives
+The objective of this project is to build powerful Deep Learning Neural network that can classify these images with more accuracy.
+In this project we made use of transfer learning. The model used in the Xception
+
+#### About Dataset
+The data is provided with a training set and a test set of images of dogs. Each image has a filename that is its unique id. The dataset comprises 120 breeds of dogs. For this project, the top 10 most populated dog breed in the datset are used to train the model. 
+
+The list of breeds is as follows:
+
 - scottish deerhound
 - maltese dog
 - afghan hound 
@@ -21,35 +24,6 @@ https://davidsonity-dog-breed-classifier-app-l4wtbp.streamlitapp.com/
 - basenji
 - samoyed
 
-
-### Installation
-Install reqluired package with pip
-
-```bash
-  pip install requirements.txt
-  
-```
-### Context
-Creating a machine learning model to predict breed of dogs using dogs images.
+Data Source: https://www.kaggle.com/competitions/dog-breed-identification/data
 
 
-### About Me 🚀 
-
-I am an Data Science/Machine Learning enthusiast. I spend most of my time styding, researching and analysing data. \
-I make use of data to building machine learning models, computer vision projects, recommendation Systems etc.
-
-### Skills 🛠 
-- Python
-- Data Analysis
-- Data Visualization
-- Machine learning
-- Deep learnng
-- Recommendation Systems
-- Computer Vision
-
-
-## How to use app
-https://user-images.githubusercontent.com/96771321/177057102-f7564918-0707-4c0f-856d-72952e2123e3.mp4
-
-### License
-[MIT](https://choosealicense.com/licenses/mit/)
