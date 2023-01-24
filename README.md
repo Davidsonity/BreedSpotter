@@ -31,5 +31,8 @@ The list of breeds is as follows:
 
 Data Source: https://www.kaggle.com/competitions/dog-breed-identification/data
 
+### Results
+Accuracy over the test set: 95.65%
+
 ### Website
 https://davidsonity-dog-breed-classifier-app-l4wtbp.streamlit.app/
