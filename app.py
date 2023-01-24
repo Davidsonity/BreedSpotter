@@ -22,7 +22,8 @@ with st.sidebar:
     st.markdown('- bernese mountain dog')
     st.markdown('- shih-tzu')
     st.markdown('- great pyrenees')
-    st.markdown('- pomeranian,basenji')
+    st.markdown('- pomeranian')
+    st.markdown('- basenji')
     st.markdown('- samoyed')
 
 # Setting the title of app
