@@ -12,12 +12,28 @@ model = load_model(pkl_path)
 # Name of classes
 classes = ['scottish deerhound', 'maltese dog', 'afghan hound', 'entlebucher', 'bernese mountain dog', 'shih-tzu', 'great pyrenees', 'pomeranian', 'basenji', 'samoyed']
 
+
+with st.sidebar:
+    st.subheader('Available Dog Breeds')
+    st.markdown('- scottish deerhound')
+    st.markdown('- maltese dog')
+    st.markdown('- afghan hound')
+    st.markdown('- entlebucher')
+    st.markdown('- bernese mountain dog')
+    st.markdown('- shih-tzu')
+    st.markdown('- great pyrenees')
+    st.markdown('- pomeranian,basenji')
+    st.markdown('- samoyed')
+
 # Setting the title of app
-st.title("Dog Breed Prediction")
-st.markdown("Upload an image of the dog")
+st.header("Dog Breed Prediction")
+
+st.image(
+    'https://t4.ftcdn.net/jpg/01/96/97/53/360_F_196975369_W7b15V9vjRgNuSGNpJJjm93gpcdHi1h4.jpg'
+)
 
 # Uploading the dog image
-dog_image = st.file_uploader("Choose an image...", type="jpg")
+dog_image = st.file_uploader("Upload image of a dog", type="jpg")
 submit = st.button("Predict")
 
 # On Clicking Predict Button
