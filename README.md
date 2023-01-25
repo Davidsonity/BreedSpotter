@@ -34,5 +34,5 @@ Data Source: https://www.kaggle.com/competitions/dog-breed-identification/data
 ### Results
 Accuracy over the test set: 95.65%
 
-### Website
+### Deployment:
 https://davidsonity-dog-breed-classifier-app-l4wtbp.streamlit.app/
