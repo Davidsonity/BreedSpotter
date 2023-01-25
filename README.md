@@ -2,7 +2,7 @@
 
 ![h](https://user-images.githubusercontent.com/96771321/214430950-66cc8641-b309-4de1-8a8f-7a568f69910c.jpg)
 
-> visit website @ https://davidsonity-dog-breed-classifier-app-l4wtbp.streamlit.app/
+> visit website @ https://davidsonity-dogbreed-classifier-app-opihvk.streamlit.app/
 
 
 ### INTRODUCTION
@@ -35,4 +35,4 @@ Data Source: https://www.kaggle.com/competitions/dog-breed-identification/data
 Accuracy over the test set: 95.65%
 
 ### Deployment:
-https://davidsonity-dog-breed-classifier-app-l4wtbp.streamlit.app/
+https://davidsonity-dogbreed-classifier-app-opihvk.streamlit.app/
