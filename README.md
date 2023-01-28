@@ -3,6 +3,8 @@
 ![h](https://user-images.githubusercontent.com/96771321/214430950-66cc8641-b309-4de1-8a8f-7a568f69910c.jpg)
 
 > Deployment Site @ https://davidsonity-dogbreed-classifier-app-opihvk.streamlit.app/
+>
+> View Notebook @ https://github.com/Davidsonity/DogBreed-Classifier/blob/main/notebook.ipynb
 
 
 ### INTRODUCTION
