@@ -49,7 +49,7 @@ After extensive training and fine-tuning, the model achieves an impressive accur
 To make the project more accessible and interactive, a deployment site has been created. The Dog Breed Classifier application allows users to upload their own dog images and witness the model's real-time predictions of the respective breed. Visit the deployment site at [https://davidsonity-dogbreed-classifier-app-opihvk.streamlit.app/](https://davidsonity-dogbreed-classifier-app-opihvk.streamlit.app/).
 
 ## Additional Resources
-For a more detailed understanding of the project's implementation and code, please refer to the notebook available on GitHub: [View Notebook](https://github.com/your-username/your-repo/blob/main/notebook.ipynb).
+For a more detailed understanding of the project's implementation and code, please refer to the notebook available on GitHub: [View Notebook](https://github.com/Davidsonity/DogBreed-Classifier/blob/main/notebook.ipynb).
 
 ## Conclusion
 The Dog Breed Prediction project demonstrates the power of deep learning and transfer learning in accurately classifying dog breeds. By harnessing the capabilities of TensorFlow and the Xception model, this project achieves remarkable accuracy and showcases the potential of artificial intelligence in image classification tasks.
