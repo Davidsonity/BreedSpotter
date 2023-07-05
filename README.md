@@ -2,10 +2,39 @@
 
 ![h](https://user-images.githubusercontent.com/96771321/214430950-66cc8641-b309-4de1-8a8f-7a568f69910c.jpg)
 
-This repository contains the code and resources for the Dog Breed Prediction project, which aims to accurately classify dog breeds using deep learning techniques.
-
 ## Introduction
 The Dog Breed Prediction project utilizes TensorFlow and transfer learning with the Xception model to develop a powerful neural network capable of identifying dog breeds with high accuracy. The project focuses on the top 10 most populated dog breeds from a dataset comprising 120 different breeds.
+
+## Repository Structure
+
+The repository structure include:
+
+```
+├── .idea/
+├── .streamlit/
+├── LICENSE
+├── Procfile
+├── README.md
+├── app.py
+├── dog_breed.h5
+├── notebook.ipynb
+├── requirements.txt
+└── setup.sh
+```
+
+In this structure:
+
+- `.idea/`: Directory containing configuration files for JetBrains IDEs, such as PyCharm.
+- `.streamlit/`: Directory for Streamlit configuration files, if you're using Streamlit for your project.
+- `LICENSE`: File containing the license information for your project.
+- `Procfile`: File specifying the commands to run your application in a hosting environment, such as Heroku.
+- `README.md`: Markdown file with project documentation, instructions, or other relevant information.
+- `app.py`: Python file containing the main code for deployment.
+- `dog_breed.h5`: Pre-trained model file or model weights.
+- `notebook.ipynb`: Jupyter notebook file for exploratory analysis and experiments.
+- `requirements.txt`: File listing the required Python libraries and their versions.
+- `setup.sh`: Shell script for setting up the project environment or executing necessary setup commands.
+
 
 ## Dataset
 The dataset used in this project consists of training and test sets containing images of dogs. Each image is uniquely identified by its filename, and the dataset provides a comprehensive collection of dog breed images for training and evaluation purposes. The data source for this project is available on Kaggle.
