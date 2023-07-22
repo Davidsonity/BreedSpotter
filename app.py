@@ -27,7 +27,7 @@ with st.sidebar:
     st.markdown('- samoyed')
 
 # Setting the title of app
-st.header("Dog Breed Prediction")
+st.header("BreedSpotter")
 
 st.image(
     'https://t4.ftcdn.net/jpg/01/96/97/53/360_F_196975369_W7b15V9vjRgNuSGNpJJjm93gpcdHi1h4.jpg'
