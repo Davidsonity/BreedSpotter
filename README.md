@@ -47,7 +47,7 @@ The model employed in this project is the Xception model, a pre-trained deep lea
 After extensive training and fine-tuning, the model achieves an impressive accuracy of 95.65% on the test set. This performance demonstrates the model's ability to identify intricate patterns and features that differentiate one dog breed from another.
 
 ## Deployment
-To make the project more accessible and interactive, a deployment site has been created. The Dog Breed Classifier application allows users to upload their own dog images and witness the model's real-time predictions of the respective breed. Visit the deployment site at [https://davidsonity-dogbreed-classifier-app-opihvk.streamlit.app/](https://davidsonity-dogbreed-classifier-app-opihvk.streamlit.app/).
+To make the project more accessible and interactive, a deployment site has been created. The Dog Breed Classifier application allows users to upload their own dog images and witness the model's real-time predictions of the respective breed. Visit the deployment site at [BreedSpotter App](https://breedspotter.streamlit.app/).
 
 ## Additional Resources
 For a more detailed understanding of the project's implementation and code, please refer to the notebook available on GitHub: [View Notebook](https://github.com/Davidsonity/BreedSpotter/blob/main/notebook.ipynb).
