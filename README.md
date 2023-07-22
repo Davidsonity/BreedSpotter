@@ -1,4 +1,5 @@
-# **Dog Breed Prediction**
+# **BreedSpotter**
+> Dog Breed Prediction
 
 ![h](https://user-images.githubusercontent.com/96771321/214430950-66cc8641-b309-4de1-8a8f-7a568f69910c.jpg)
 
